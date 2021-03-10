@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Permanent+Marker&display=swap');
+
+/* Nav Bar and Alert */
+
+
+.alert {
+    margin-bottom: 0;
+}
+
+div ul {
+    float: right;
+}
+
+/* Hero Image */
+
+#hero-outer {
+position: relative;
+width: 100%;
+height: 600px;
+overflow: hidden;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(/assets/images/simon-weisser-phS37wg8cQg-unsplash.jpg) no-repeat center center;
+    background-size: cover;
+    }
+
+#hero-text {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width:300px;
+    height: 300px;
+    color: white;
+}
+
+/* Text */
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.heading-text {
+    font-family: 'Permanent Marker', sans-serif;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+/* Footer */
+
+.footer-details {
+
+}
