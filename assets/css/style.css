@@ -53,5 +53,18 @@ body{
 /* Footer */
 
 .footer-details {
+    background-color: #7ba0a8;
+}
 
+.row {
+    padding: 30px;
+}
+
+.partner-icons{
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }

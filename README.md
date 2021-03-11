@@ -1,4 +1,4 @@
-# String It Up Music
+# String Up Music
 
 String it up is the place to go for experienced and aspriring musicians. The aim of this website is to give a clear
 and obvious picture to excatly what String It Up is. They will be find out about what we do, who the team are, where
